@@ -2,9 +2,6 @@
   border-radius: 0 13rem 13rem 0;
  height: 300px;
 }
-.intro-section{
-background-image:url();
-}
 .section {
   position: relative;
   min-height: 400px;
@@ -20,3 +17,4 @@ background-image:url();
 .overlay{
   padding: 110px 0;
 }
+

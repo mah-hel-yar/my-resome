@@ -1,0 +1,22 @@
+.custom-box{
+  border-radius: 0 13rem 13rem 0;
+ height: 300px;
+}
+.intro-section{
+background-image:url();
+}
+.section {
+  position: relative;
+  min-height: 400px;
+  padding: 0;
+  margin: 0;
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+.intro-section .overlay {
+  background-color: rgba(32, 99, 143, 0.9);
+}
+.overlay{
+  padding: 110px 0;
+}

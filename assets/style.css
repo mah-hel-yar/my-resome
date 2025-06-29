@@ -63,10 +63,11 @@
 }
 .services-section{
   background-color: rgba(178, 64, 64, 0.9);
-  background-image:url();}
+  background-image:url();
+}
   .about-section .overlay{
     background-color: rgba(68, 68, 68, 0.9); ;
   }
-  .about-section{
-    background-image:url()
+  .about-section {
+    background-image: url()
   }
